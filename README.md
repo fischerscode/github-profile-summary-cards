@@ -53,7 +53,7 @@ After the action finished. You can see the output is push to a folder which name
 
 `Note: Those cards might not be upadated in time, because github raw file has cache time.`
 
-```ymal
+```yml
 name: GitHub-Profile-Summary-Cards
 
 on:
